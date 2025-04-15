@@ -1,4 +1,4 @@
-import Security from '../assets/security.jpg'
+import Security from '../assets/Security.jpg'
 import Support from '../assets/Support.jpg'
 import Speed from '../assets/Speed.jpg'
 

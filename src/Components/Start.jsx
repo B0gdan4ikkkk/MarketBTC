@@ -1,4 +1,4 @@
-import TradeWallet from '../assets/Trade wallet.jpg'
+import TradeWallet from '../assets/Trade Wallet.jpg'
 import Getstarted from '../Hooks/Getstarted'
 import Google from '../assets/Google.svg'
 import Star from '../assets/Star.svg'
